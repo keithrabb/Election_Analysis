@@ -2,7 +2,7 @@
 ## Overview of the Election Audit
   The purpose of the audit was to:
   
-  :slightly_smiling_face: Provide the total votes of all counties
+  :slightly_smiling_face: Provide the total votes of all counties represented in the election
     
   :slightly_smiling_face: Provide voter turnout for each county
     
