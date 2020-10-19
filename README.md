@@ -23,7 +23,7 @@
   
   *County with largest number of vote :black_small_square: Denver
   
-  *Breakdown of the number of votes & % of the total votes each candidate received (highest to lowest:
+  *Breakdown of the number of votes & % of the total votes each candidate received (highest to lowest):
   
     1 Diana DeGette: 272,892 @ 73.8%
     
