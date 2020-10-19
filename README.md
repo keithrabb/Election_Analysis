@@ -2,18 +2,18 @@
 ## 1 Overview of the Election Audit
   The purpose of the audit was to:
   
-  :slightly_smiling_face: Provide the total votes of all counties represented in the election
+  *Provide the total votes of all counties represented in the election
     
-  :slightly_smiling_face: Provide voter turnout for each county
+  *Provide voter turnout for each county
     
-  :slightly_smiling_face: Provide percentage of votes from each county out of the total count
+  *Provide percentage of votes from each county out of the total count
     
-  :slightly_smiling_face: Show the county with the highest turnout
+  *Show the county with the highest turnout
   
   ## 2 Election Audit Results
   *Total votes cast in the congressional election: :black_small_square: 369,711 votes
  
-  *Breakdown of the number of votes & the percentage of total votes for each county
+  *Breakdown of the number of votes & the % of total votes for each county (highest to lowest):
   
     1 Denver:  306,055 votes @ 82.8%
     
@@ -23,7 +23,7 @@
   
   *County with largest number of vote :black_small_square: Denver
   
-  *Breakdown of the number of votes and the percentage of the total votes each candidate received:
+  *Breakdown of the number of votes & % of the total votes each candidate received (highest to lowest:
   
     1 Diana DeGette: 272,892 @ 73.8%
     
