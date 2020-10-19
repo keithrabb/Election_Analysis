@@ -38,7 +38,7 @@
 ## 3 Election Audit Summary
 ### Attention Election Commission  
   
-  This script cany by used for any election by:
+  This script can by used for any election by:
   
     1 Making sure the .csv file is named the same or by modifying the script to read a different .csv file
     
