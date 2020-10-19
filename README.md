@@ -10,6 +10,8 @@
     
   *Show the county with the highest turnout
   
+  *Declare a winner of the election while showing total vote count & % of vote received
+  
   ## 2 Election Audit Results
   *Total votes cast in the congressional election: :black_small_square: 369,711 votes
  
